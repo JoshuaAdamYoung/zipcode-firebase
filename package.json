@@ -1,0 +1,19 @@
+{
+  "name": "firebase-zipcode",
+  "version": "1.0.0",
+  "description": "Automatically populates firebase with zipcode data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaAdamYoung/zipcode-firebase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshuaAdamYoung/zipcode-firebase/issues"
+  },
+  "homepage": "https://github.com/JoshuaAdamYoung/zipcode-firebase#readme"
+}
